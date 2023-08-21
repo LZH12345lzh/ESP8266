@@ -1,0 +1,11 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "i2c.h": "c",
+    "sdkconfig.h": "c",
+    "sstream": "c",
+    "regex": "c",
+    "esp_log.h": "c"
+  },
+  "idf.portWin": "COM11"
+}
